@@ -1,6 +1,6 @@
 package ejercicio01;
 
-public class AthleteActivity extends Thread{
+public class AthleteActivity extends Thread {
 	private String athlete;
 	private int activityDuration; //in seconds
 	
