@@ -1,6 +1,6 @@
 package ejercicio01;
 
-public class AthleteActivity_Interface implements Runnable{
+public class AthleteActivity_Interface implements Runnable {
 	private String athlete;
 	private int activityDuration; //in seconds
 	
